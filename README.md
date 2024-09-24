@@ -1,0 +1,2 @@
+# Modulo_Innovacion_Gestion_de_Datos
+Repositorio de almacenamiento de contenido de Trabajo Integrador del modulo Innovacion_Gestion_de_Datos
